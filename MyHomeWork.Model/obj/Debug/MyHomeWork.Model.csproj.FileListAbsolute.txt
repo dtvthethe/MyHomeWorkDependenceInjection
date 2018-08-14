@@ -1,0 +1,6 @@
+E:\TEDU\MyHomeWork\MyHomeWork.Model\bin\Debug\MyHomeWork.Model.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Model\bin\Debug\MyHomeWork.Model.pdb
+E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.csprojAssemblyReference.cache
+E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.csproj.CoreCompileInputs.cache
+E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.pdb

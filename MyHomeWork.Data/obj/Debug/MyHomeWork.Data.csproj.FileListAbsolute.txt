@@ -1,0 +1,14 @@
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\MyHomeWork.Data.dll.config
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\MyHomeWork.Data.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\MyHomeWork.Data.pdb
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\EntityFramework.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\MyHomeWork.Model.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\MyHomeWork.Model.pdb
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\EntityFramework.xml
+E:\TEDU\MyHomeWork\MyHomeWork.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\TEDU\MyHomeWork\MyHomeWork.Data\obj\Debug\MyHomeWork.Data.csprojAssemblyReference.cache
+E:\TEDU\MyHomeWork\MyHomeWork.Data\obj\Debug\MyHomeWork.Data.csproj.CoreCompileInputs.cache
+E:\TEDU\MyHomeWork\MyHomeWork.Data\obj\Debug\MyHomeWork.Data.csproj.CopyComplete
+E:\TEDU\MyHomeWork\MyHomeWork.Data\obj\Debug\MyHomeWork.Data.dll
+E:\TEDU\MyHomeWork\MyHomeWork.Data\obj\Debug\MyHomeWork.Data.pdb
