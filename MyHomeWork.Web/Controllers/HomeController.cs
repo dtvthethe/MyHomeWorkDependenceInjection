@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MyHomeWork.Service.IServices;
+using MyHomeWork.Service.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,8 +10,17 @@ namespace MyHomeWork.Web.Controllers
 {
     public class HomeController : Controller
     {
+
+        private ICategoryService _categoryService;
+
+        public HomeController(ICategoryService categoryService) {
+            _categoryService = categoryService;
+        }
+
+
         public ActionResult Index()
         {
+            var aa = _categoryService.GetCategories();
             return View();
         }
 

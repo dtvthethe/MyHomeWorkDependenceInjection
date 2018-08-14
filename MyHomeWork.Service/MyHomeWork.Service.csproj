@@ -40,7 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IServices\ICategoryService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\CategoryService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyHomeWork.Data\MyHomeWork.Data.csproj">
+      <Project>{2C3D411A-1D60-41AA-A499-A65AAE90F8AF}</Project>
+      <Name>MyHomeWork.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyHomeWork.Model\MyHomeWork.Model.csproj">
+      <Project>{3405E783-CA34-4311-A37B-CD4A3523BC46}</Project>
+      <Name>MyHomeWork.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
