@@ -1,3 +1,8 @@
+using MyHomeWork.Data.Infrastructure;
+using MyHomeWork.Data.IRepositories;
+using MyHomeWork.Data.Repositories;
+using MyHomeWork.Service.IServices;
+using MyHomeWork.Service.Services;
 using System;
 
 using Unity;
@@ -41,7 +46,16 @@ namespace MyHomeWork.Web
             // container.LoadConfiguration();
 
             // TODO: Register your type's mappings here.
-            // container.RegisterType<IProductRepository, ProductRepository>();
+            container.RegisterType<IDbFactory, DbFactory>();
+            container.RegisterType<IUnitOfWork, UnitOfWork>();
+
+
+            container.RegisterType<IProductRepository, ProductRepository>();
+            container.RegisterType<ICategoryRepository, CategoryRepository>();
+
+            container.RegisterType<ICategoryService, CategoryService>();
+
+
         }
     }
 }

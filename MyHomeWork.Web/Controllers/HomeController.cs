@@ -1,4 +1,6 @@
-﻿using MyHomeWork.Service.IServices;
+﻿using MyHomeWork.Data.Infrastructure;
+using MyHomeWork.Model.Models;
+using MyHomeWork.Service.IServices;
 using MyHomeWork.Service.Services;
 using System;
 using System.Collections.Generic;
@@ -20,7 +22,19 @@ namespace MyHomeWork.Web.Controllers
 
         public ActionResult Index()
         {
-            var aa = _categoryService.GetCategories();
+            //var aa = _categoryService.GetCategories();
+
+
+
+            var cat = new Category { Name="Accessories", CreateDate = DateTime.Now };
+
+            var aa = _categoryService.Add(cat);
+            _categoryService.SaveChanges();
+
+            var aaa = aa;
+
+
+
             return View();
         }
 

@@ -4,3 +4,9 @@ E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.csprojAssemblyRef
 E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.csproj.CoreCompileInputs.cache
 E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.dll
 E:\TEDU\MyHomeWork\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.pdb
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Model\bin\Debug\MyHomeWork.Model.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Model\bin\Debug\MyHomeWork.Model.pdb
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.csprojResolveAssemblyReference.cache
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.csproj.CoreCompileInputs.cache
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Model\obj\Debug\MyHomeWork.Model.pdb

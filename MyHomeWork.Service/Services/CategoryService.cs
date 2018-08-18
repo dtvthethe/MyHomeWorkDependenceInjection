@@ -21,9 +21,19 @@ namespace MyHomeWork.Service.Services
             _unitOfWork = unitOfWork;
         }
 
+        public Category Add(Category category)
+        {
+            return _categoryReponsitory.Add(category);
+        }
+
         public List<Category> GetCategories()
         {
             return _categoryReponsitory.GetCategories().ToList();
+        }
+
+        public void SaveChanges()
+        {
+            _unitOfWork.Commit();
         }
     }
 }

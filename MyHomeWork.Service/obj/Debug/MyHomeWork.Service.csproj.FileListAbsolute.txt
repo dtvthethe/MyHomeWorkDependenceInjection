@@ -1,0 +1,14 @@
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Service.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Service.pdb
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Data.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Model.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\EntityFramework.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Data.pdb
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Data.dll.config
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\MyHomeWork.Model.pdb
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\bin\Debug\EntityFramework.xml
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\obj\Debug\MyHomeWork.Service.csprojResolveAssemblyReference.cache
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\obj\Debug\MyHomeWork.Service.csproj.CoreCompileInputs.cache
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\obj\Debug\MyHomeWork.Service.csproj.CopyComplete
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\obj\Debug\MyHomeWork.Service.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Service\obj\Debug\MyHomeWork.Service.pdb

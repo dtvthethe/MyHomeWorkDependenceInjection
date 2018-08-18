@@ -10,5 +10,7 @@ namespace MyHomeWork.Service.IServices
     public interface ICategoryService
     {
         List<Category> GetCategories();
+        Category Add(Category category);
+        void SaveChanges();
     }
 }

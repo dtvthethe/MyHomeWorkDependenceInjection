@@ -1,0 +1,6 @@
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Common\bin\Debug\MyHomeWork.Common.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Common\bin\Debug\MyHomeWork.Common.pdb
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Common\obj\Debug\MyHomeWork.Common.csprojResolveAssemblyReference.cache
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Common\obj\Debug\MyHomeWork.Common.csproj.CoreCompileInputs.cache
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Common\obj\Debug\MyHomeWork.Common.dll
+C:\Users\thedtv\Documents\Storage\MyHomeWorkDependenceInjection\MyHomeWorkDependenceInjection\MyHomeWork.Common\obj\Debug\MyHomeWork.Common.pdb

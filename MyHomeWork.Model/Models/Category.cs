@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 
 namespace MyHomeWork.Model.Models
 {
-    public class Category: Auditable
+    public class Category : Auditable
     {
         public string Name { get; set; }
+
+        public List<Product> Products { get; set; }
     }
 }
