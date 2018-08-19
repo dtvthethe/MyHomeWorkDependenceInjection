@@ -46,9 +46,10 @@ namespace MyHomeWork.Web
             // container.LoadConfiguration();
 
             // TODO: Register your type's mappings here.
-            container.RegisterType<IDbFactory, DbFactory>();
+            //container.RegisterType<IDbFactory, DbFactory>(); -> It doesn't work
+			container.RegisterSingleton<IDbFactory, DbFactory>();
             container.RegisterType<IUnitOfWork, UnitOfWork>();
-
+			
 
             container.RegisterType<IProductRepository, ProductRepository>();
             container.RegisterType<ICategoryRepository, CategoryRepository>();
