@@ -7,3 +7,7 @@
 
 [REPOSITORY + UNIT OF WORK]
 - refer: https://www.dotnettricks.com/learn/mvc/implementing-repository-and-unit-of-work-patterns-with-mvc
+
+[Task Research]
+- ViewMOdel: Add, Update, List
+- Identity: Login, Logout, Profile, Regist, Role Manager, UserManger, Add Other columns 
